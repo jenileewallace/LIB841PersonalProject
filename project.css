@@ -1,0 +1,47 @@
+h1{
+background-color:navy;
+text-align:center;
+color:teal;
+font:bold 30px Arial black, cursive, sans-serif; 
+line-height:1.8em;
+}
+h2{
+background-color:red;
+color:white;
+font:normal 20px Comic Sans MS, cursive, sans-serif;
+line-height:1.8em;
+}
+body{
+background-color:blue;
+}
+p{
+display:block;
+background-color:blue;
+color:black;
+font-family: Arial;
+size: 40px;
+line-height:1.8em;
+}
+a:link {
+  color: teal;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
